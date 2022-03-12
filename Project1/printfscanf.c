@@ -1,5 +1,6 @@
 # define _CRT_SECURE_NO_WARNINGS
 # include <stdio.h>
+
 int main_printfscanf(void)
 {
 	// 정수형 변수에 대한 예제
