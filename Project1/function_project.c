@@ -2,7 +2,6 @@
 
 int getRandomNumber(int level);
 void showQuestion(int level, int num1, int num2);
-
 void success();
 void fail();
 int main_function_project(void)
