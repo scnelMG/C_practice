@@ -95,7 +95,6 @@ int main_pointer_project(void)
 
 		// 처음 물을 준지 10초 지남 -> 그 다음 물을 줄 떄가 15초 (prevElapsedTime = 5초)
 		// 25초에 물을 준다면 25초 - 15초, 이 때 15초라는 값을 prevElapsedTime에 저장
-
 	}
 	return 0;
 }
