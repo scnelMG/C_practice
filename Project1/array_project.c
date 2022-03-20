@@ -12,7 +12,6 @@ int main_array_project(void)
 	int prevCntShowBottle = 0; // 앞 시도에 보여준 병 갯수
 	// 서로 보여주는 병 갯수를 다르게 하여 정답률 향상 (처음에 2개 -> 다음엔 3개)
 
-
 	// 3번의 기회 (3번의 발모제 투여 시도)
 	for (int i = 1; i <= 3; i++)
 	{
