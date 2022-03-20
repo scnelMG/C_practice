@@ -158,6 +158,5 @@ int main_condition(void)
 		}
 	}
 
-
 	return 0;
 }
