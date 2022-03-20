@@ -1,6 +1,5 @@
 # include <stdio.h>
 
-
 struct GameInfo
 {
 	char* name;
